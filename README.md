@@ -1,2 +1,1 @@
-# practiceGit_AtushiNakano
-GitHub練習
+# GitHub練習
